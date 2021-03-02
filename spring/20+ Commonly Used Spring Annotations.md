@@ -1,9 +1,9 @@
 # 20+ Commonly Used Spring Annotations
 
-## CONTENT
+## Content
 
-- [INTRODUCTION](#introduction)
-- [ANNOTATIONS](#annotations)
+- [Introduction](#introduction)
+- [Annotations](#annotations)
   - [Bean declaration](#bean-declaration)
   - [Bean injection](#bean-injection)
   - [Bean life-cycle and scope](#bean-life-cycle-and-scope)
@@ -17,11 +17,11 @@
   - [AOP](#aop)
   - [Test](#test)
 
-## INTRODUCTION
+## Introduction
 
 
 
-## ANNOTATIONS
+## Annotations
 
 
 
