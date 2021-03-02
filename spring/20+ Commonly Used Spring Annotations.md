@@ -11,7 +11,7 @@
   - [Bean configuration](#bean-configuration)
   - [Property value injection](#property-value-injection)
   - [Asynchronous service](#asynchronous-service)
-  - [Timer(Quartz)](#timer(quartz))
+  - [Timer(Quartz)](#timerquartz)
   - [Features switches](#features-switches)
   - [Spring MVC](#spring-mvc)
   - [AOP](#aop)
