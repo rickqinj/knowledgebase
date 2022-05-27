@@ -126,6 +126,14 @@ myfirsttypescriptprj> npm i gts --save-dev
 
 The switch `--save-dev` will tell npm to install the specified package `gts` to the project **myfirsttypescriptprj**.
 
+## Display the path of the global package repository
+
+To show the global repository path, we can use the following command.
+
+```shell
+> npm root --global
+```
+
 
 
 # Reference
