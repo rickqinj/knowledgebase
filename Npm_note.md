@@ -114,7 +114,19 @@ You may use Npm to initialize your project workspace. For example, I have a proj
     }
     ```
 
-    
+
+## Install package to the project rather than the global env
+
+We can use Npm to install necessary packages to the project folders rather than the global environment. For example, here we are going to install the Google typescript code linter dedicated for the project **myfirsttypescriptprj**.
+
+```shell
+> cd myfirsttypescriptprj      //go the project folder
+myfirsttypescriptprj> npm i gts --save-dev
+```
+
+The switch `--save-dev` will tell npm to install the specified package `gts` to the project **myfirsttypescriptprj**.
+
+
 
 # Reference
 
