@@ -1,6 +1,22 @@
 # Npm Learning Note
 
-[TOC]
+## Content
+
+- [What is Npm?](#what-is-npm)
+
+- [Installation](#installation)
+
+- [Version](#version)
+
+- [Generate package information for your project](#generate-package-information-for-your-project)
+
+- [Install package to the project rather than the global env](#Install-package-to-the-project-rather-than-the-global-env)
+
+- [Display the path of the global package repository](#display-the-path-of-the-global-package-repository)
+
+- [Reference](#reference)
+
+  
 
 ## What is Npm?
 
