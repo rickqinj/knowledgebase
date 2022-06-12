@@ -12,10 +12,19 @@ This section is only used for me(the author) to taking notes on questions that I
   - Interface extends from class;
   - Experiment: Can we do multiple inheritance in TypeScript? If so, how to do and when is it applicable?
   - Experiment: Interface extends from a class. And what's the use of the interface?
+- Concept: 
+  - What is a module in TypeScript?
+    - 
+  - What do we do commonly with modules in TypeScript project?
+  - How can we access to or customize our own modules?
 
 ## Content
 
-
+- [Initialize a TypeScript project](#initialize-a-typescript-project)
+- [Module and its related knowledge](#module-and-its-related-knowledge)
+  - [What is a module in TypeScript](#what-is-a-module-in-typescript)
+  - 
+- 
 
 ## Initialize a TypeScript project
 
@@ -46,4 +55,10 @@ Created a new tsconfig.json with:
 You can learn more at https://aka.ms/tsconfig
 d:\mytsprj\>
 ```
+
+## Module and its related knowledge
+
+### What is a module in TypeScript
+
+A module in TypeScript usually comes as a file(*.ts) which contains classes, interfaces, variables, values and functions(methods).
 
