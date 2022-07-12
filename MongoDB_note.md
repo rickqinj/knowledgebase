@@ -2,7 +2,7 @@
 
 July 12, 2022
 
-*The document has not completed yet. I will make this up along with my learning's going on.*
+*The document has not been completed yet. It will be gradually improved along with my learning going deeply.*
 The note bases on MongoDB version 5.0
 
 ## MongoDB Cloud Platform - Atlas
