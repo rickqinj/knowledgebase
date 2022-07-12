@@ -8,7 +8,7 @@ The note bases on MongoDB version 5.0
 
 MongoDB has a cloud platform named Atlas. Here is the [entrance](https://cloud.mongodb.com/).
 
-![20220712015555](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712015555.png)
+![20220712015555](./MongoDB_note.assets20220712015555.png)
 
 ### Database/Cluster structure on the cloud
 
@@ -17,7 +17,7 @@ MongoDB has a cloud platform named Atlas. Here is the [entrance](https://cloud.m
     - Cluster(s)
       - Database(s) (will not be displayed on the page)
 
-![20220712015938](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712015938.png)
+![20220712015938](./MongoDB_note.assets/20220712015938.png)
 
 Atlas provides user **M0 shared cluster** for free.
 
