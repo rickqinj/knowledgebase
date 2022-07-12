@@ -6,7 +6,7 @@ July 12, 2022
 The note bases on MongoDB version 5.0
 
 ## Content
-- [MongoDB Cloud Platform - Atlas](#mongodb-cloud-platform(Atlas))
+- [MongoDB Cloud Platform - Atlas](#mongodb-cloud-platform---atlas)
 - [MongoDB Shell](#mongodb-shell)
 - [Commands](#commands)
 
