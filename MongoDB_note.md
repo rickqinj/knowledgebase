@@ -29,29 +29,29 @@ Also known as **mongosh**. It is the tool for the connection to the cluster buil
 
 Log in Atlas, and go to the Database page, you may find a button "Connect" beside your cluster name. Here, mine is "Sandbox". Click on the button "Connect". And choose "Connect with MongoDB Shell" option.
 
-![20220712021653](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712021653.png)
+![20220712021653](./MongoDB_note.assets/20220712021653.png)
 
 And then, choose "I have the MongoDB Shell installed", and the option "mongosh" from the dropdown list.
 
-![20220712021842](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712021842.png)
+![20220712021842](./MongoDB_note.assets/20220712021842.png)
 
 When you finish the above selection, you may find the connection string generated at the lower part of the page.
 
-![20220712022319](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712022319.png)
+![20220712022319](./MongoDB_note.assets/20220712022319.png)
 
 Copy the connection string from the page.
 
 Open the command line terminal on your system.
 
-![20220712022538](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712022538.png)
+![20220712022538](./MongoDB_note.assets/20220712022538.png)
 
 Enter the connection string after the command line prompt.
 
-![20220712022904](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712022904.png)
+![20220712022904](./MongoDB_note.assets/20220712022904.png)
 
 Once connection completed, you may see the following information.
 
-![20220712023816](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712023816.png)
+![20220712023816](./MongoDB_note.assets/20220712023816.png)
 
 ## Commands
 
@@ -59,20 +59,20 @@ Once connection completed, you may see the following information.
 
 **db**
 
-![20220712024130](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712024130.png)
+![20220712024130](./MongoDB_note.assets/20220712024130.png)
 
 **\<tab\>** - Enter tab key to show all commands.
 
-![20220712024333](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712024333.png)
+![20220712024333](./MongoDB_note.assets/20220712024333.png)
 
 **show dbs** - List all existed databases in the system.
 
-![20220712024514](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712024514.png)
+![20220712024514](./MongoDB_note.assets/20220712024514.png)
 
 **use <database_name>** - Switch to the specified database.
 
-![20220712024751](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712024751.png)
+![20220712024751](./MongoDB_note.assets/20220712024751.png)
 
 **show collections** - Show all collections that current database contains.
 
-![20220712025051](D:\Workspace\knowledgebase\MongoDB_note.assets\20220712025051.png)
+![20220712025051](./MongoDB_note.assets/20220712025051.png)
