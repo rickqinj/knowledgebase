@@ -8,7 +8,7 @@ The note bases on MongoDB version 5.0
 
 MongoDB has a cloud platform named Atlas. Here is the [entrance](https://cloud.mongodb.com/).
 
-![20220712015555](./MongoDB_note.assets20220712015555.png)
+![20220712015555](./MongoDB_note.assets/20220712015555.png)
 
 ### Database/Cluster structure on the cloud
 
