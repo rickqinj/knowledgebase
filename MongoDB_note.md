@@ -57,22 +57,22 @@ Once connection completed, you may see the following information.
 
 ### Show current database (connected to)
 
-**db**
+**- db**
 
 ![20220712024130](./MongoDB_note.assets/20220712024130.png)
 
-**\<tab\>** - Enter tab key to show all commands.
+**- \<tab\>** - Enter the Tab key to show all commands.
 
 ![20220712024333](./MongoDB_note.assets/20220712024333.png)
 
-**show dbs** - List all existed databases in the system.
+**- show dbs** - List all existed databases in the system.
 
 ![20220712024514](./MongoDB_note.assets/20220712024514.png)
 
-**use <database_name>** - Switch to the specified database.
+**- use <database_name>** - Switch to the specified database.
 
 ![20220712024751](./MongoDB_note.assets/20220712024751.png)
 
-**show collections** - Show all collections that current database contains.
+**- show collections** - Show all collections that current database contains.
 
 ![20220712025051](./MongoDB_note.assets/20220712025051.png)
