@@ -8,7 +8,7 @@ The note bases on MongoDB version 5.0
 ## Content
 - [MongoDB Cloud Platform - Atlas](#mongodb-cloud-platform---atlas)
 - [MongoDB Shell](#mongodb-shell)
-- [Commands](#commands)
+- [Commands in the Shell](#commands-in-the-shell)
 
 ## MongoDB Cloud Platform - Atlas
 
@@ -59,26 +59,34 @@ Once connection completed, you may see the following information.
 
 ![20220712023816](./MongoDB_note.assets/20220712023816.png)
 
-## Commands
+## Commands in the Shell
 
-### Show current database (connected to)
-
-**- db**
+- **db** - is to show current connected database.
 
 ![20220712024130](./MongoDB_note.assets/20220712024130.png)
 
-**- \<tab\>** - Enter the Tab key to show all commands.
+- **\<tab\>** - enter the Tab key to show all commands available in the Shell.
 
 ![20220712024333](./MongoDB_note.assets/20220712024333.png)
 
-**- show dbs** - List all existed databases in the system.
+- **show dbs** - list all databases existed in the system.
 
 ![20220712024514](./MongoDB_note.assets/20220712024514.png)
 
-**- use <database_name>** - Switch to the specified database.
+- **use **<database_name> - switch to the database specified by \<database_name\>, and make it as the current database.
 
 ![20220712024751](./MongoDB_note.assets/20220712024751.png)
 
-**- show collections** - Show all collections that current database contains.
+- **show collections** - show all collections that current database holds.
 
 ![20220712025051](./MongoDB_note.assets/20220712025051.png)
+
+- **db.**\<collection_name\>**.find({**\<criteria\>**})** - find document(s) within the specified collection by criteria in the current database. For example, to find all qualified documents stored in the collection **zips**.
+
+![20220712232325](MongoDB_note.assets/20220712232325.png)
+
+- **db.**\<collection_name\>**.find({**\<criteria\>**}).count()** - count all qualified documents queried by the criteria.
+
+![20220712233227](MongoDB_note.assets/20220712233227.png)
+
+- 
