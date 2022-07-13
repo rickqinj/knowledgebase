@@ -85,8 +85,16 @@ Once connection completed, you may see the following information.
 
 ![20220712232325](MongoDB_note.assets/20220712232325.png)
 
+- **db.**\<collection_name\>**.findOne()** - show one document randomly stored in the collection.
+- **db.**\<collection_name\>**.find({**\<criteria\>**}).pretty()** - show query result in a JSON style.
 - **db.**\<collection_name\>**.find({**\<criteria\>**}).count()** - count all qualified documents queried by the criteria.
 
 ![20220712233227](MongoDB_note.assets/20220712233227.png)
 
+- 
+
+## Features and Matters need attention
+
+- `_id` property with a collection-unique value. Every MongoDB document must have a `_id` property, and its value must be unique within the whole collection.
+- You can omit the `_id` property when you insert a new document into the collection. MongoDB will generate one for you automatically.
 - 
